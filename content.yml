@@ -51,8 +51,8 @@ timeseries:
     section2-title: Ora del Giorno
     section3-title: Competizione
     section1-text: Il numero dei post non cambia molto (puoi vedere le settimane che il mio scraper non è funzionato).  Per natale, il numero dei post di cani si è cresciuto ma i gatti no.  A metà del set dei dati, i gatti hanno iniziato ad essere più populari che i cani.
-    section2-text: Analisisi dei Soggetti
-    section3-text: Nuvola di Parole per Soggetto  
+    section2-text:  Non è una sorpresa che la maggioranza dei post fanno quando la maggioranza della popolazione è sveglia. Il tempo migliore per fare un post è quando la maggioranza sarà in linea ma prima che gli altri stanno facendo post.
+    section3-text: Ho chiamato il numero degli altri post durante la stessa ora 'competizione'.  Ovviamente, quando ci sono più post ogni post ricevono meno upvotes.
     sidebar-filter1-text: Animale
     sidebar-filter1-options: {"all":"Tutti Due","cats":"Gatti","dogs":"Cani"}
 caption:
