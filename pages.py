@@ -78,7 +78,7 @@ class Dataset(Page):
         """)
 
         st2.image("appdata/dogpictures.png")
-        st2.image("appdata/catpictures.png")
+        st2.image("appdata/catpictures.PNG")
 
 
         st.write("-"*50)
